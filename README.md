@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Hello World!](https://glitch-art.vercel.app/api/simple?word={YOUR%20TEXT})
+![Hello World!](https://glitch-art.vercel.app/api/simple?word={Hello World!})
 
 <!--
 **uianz/uianz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
